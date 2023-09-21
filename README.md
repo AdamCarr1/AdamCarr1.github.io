@@ -1,1 +1,5 @@
-# AdamCarr1.github.io
+<h1>Adam Carr</h1>
+<h2>adcarr4@my.waketech.edu</h2>
+<br>GitHub is a platform for collaboration based around software development, where users can showcase their projects and repositories. My GitHub account was made to develop projects for Wake Tech community college and future university classes. GitHub will allow professors to track my progress and give feedback on software projects.</br> 
+<br>The GitHub repository I created is a way for others to view open-source projects I’m working on and give feedback. In the case of the repository labelled “AdamCarr1.github.io,” it is the start to my GitHub assignments for CTI 110. </br>
+<br>To create a repository on GitHub, I first clicked on the “+” symbol in the top right corner of the GitHub dashboard and selected “New repository.” Clicking on “New repository” opened a webpage where I entered my desired name for the repository and was able to select certain options such as privacy settings. After typing out the name “AdamCarr1.github.io” I clicked on the button marked Create repository. On the GitHub Desktop app, I was able to clone the repository I created by clicking on “File” and selecting “Clone repository.” This allowed me to select my repository and where to download a copy of the repository to my hard drive. </br>
